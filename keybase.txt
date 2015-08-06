@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/computerwizjared
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaredbates.net
+  * I am computerwizjared (https://keybase.io/computerwizjared) on keybase.
+  * I have a public key with fingerprint C7C6 BBD3 1F9A 07CD DF11  AF67 315B 0664 45F8 EFB6
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c7c6bbd31f9a07cddf11af67315b066445f8efb6",
+            "host": "keybase.io",
+            "key_id": "315b066445f8efb6",
+            "kid": "01010bd461a93decf4080c7888a050affb1ab5b16f7761cf131f49ad9f5f4808b23e0a",
+            "uid": "74938a0eed557b046f21ddec6cd85200",
+            "username": "computerwizjared"
+        },
+        "service": {
+            "hostname": "jaredbates.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421963960,
+    "expire_in": 157680000,
+    "prev": "a38dc5fd6912399df47e758686a0e9a00fd30d643232a71fd7ca5d4aed93dcca",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMIpAnicbZJdSBVBFMev9kEZZS+JGkTtQx8iMnt3d3b3iopSJBoZphX2cZvdmbl3
+07t73d2r9qFF2ScKJSUVRIWYRlhBaVFmt5CiehOJouihwjCMDCwhk5q91FszD8Oc
+8z+/OefMGZw/w5eSlLWia/xb08qOpBePSmO+ikf23b2cZuHdXGAvV00SBzXMELGj
+tmG6XIDTZR1qGhZ4qiIg6xhTnkcUygIvaQBCUZSoQqgGuWwubDleBMNoyCE5hsVs
+7BI0MLP+R1+dcACebQ2LkEeqgIlORaAAXVYUBQEJIEo1HmmSxkMqy5DXKc9SEVWE
+VSpRUQGK5hcIQAwXS+BkURVYJCFYkmQNiJD6ecywUMeK5AfAEzrENlGEeNVZkWjM
+JXa9sWcXsgnmGrM55q0zdOK1wqvorzLh1pBLnByTuIwStS3X0q0a5gu7btQJeLHu
+7qgnrida8C8mqBkmZh1lEXXEdgzL5AI8U+qu4XF50c+rUFAhyOZIQ9SwSdDwFJIM
+FcCW9w6pY0gkKFiXKIYq7xdUFVNRJrKkQAWyYtnXAIoFgKEo+AU/knmKZR1JWEQE
+s67qutcgh9SaFheQWJooxJCOETKRG7MJ1/g4vm2mLynFN3tWsjcTvpS5C/9NyqZr
+c3wHftw+URlelz9UPvmsM/VTtDi981zul/Px543Xe8fuZZyO/5xYH+taPCSKTS+L
+z0WOFNVVPbCHm9ZxX9cOTA9V928Gh1PeRqZuVTnD3VOH0hbVlG5Ytt3oX3a5YuxM
+/YX07rKzscL0nuSJX92rV030gZ8Dfa130MuWkVfXx/PWcju3pn05VbZ/abxt343M
+cKF7/t2bBZc6J7Mu+ds7LraOZgyfzC9ac/SJ8KN8uXzz+8fjLaOpwR4ztaLt6rEd
+7z8UPMWB37ndyb7aTaSyivS87oWv+laOfjzYseTKxpxoSWbm9P3Bks8N8puvD0NZ
+Xbnzaoorm7dsaZ6v4LyRsw872wsiB/4AKu0zWg==
+=PPiX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/computerwizjared
+
+==================================================================
